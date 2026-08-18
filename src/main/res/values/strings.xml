@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">My Application</string>
+
+    <!-- Drawer / Routes -->
+    <string name="nav_today">Today</string>
+    <string name="nav_weekly">Weekly Schedule</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Today -->
+    <string name="today_title">Today</string>
+    <string name="today_add_event">Add event</string>
+    <string name="today_event_title_hint">Title</string>
+    <string name="today_event_time_optional">Time (optional)</string>
+    <string name="today_all_day">All-day</string>
+    <string name="today_done">Done</string>
+    <string name="today_undone">Undone</string>
+    <string name="today_delete">Delete</string>
+    <string name="today_rename">Rename</string>
+    <string name="today_empty">No events for today.</string>
+    <!-- ===== Common ===== -->
+    <string name="common_prev">Previous</string>
+    <string name="common_next">Next</string>
+    <string name="common_today">Today</string>
+    <string name="common_tomorrow">Tomorrow</string>
+    <string name="common_yesterday">Yesterday</string>
+    <string name="common_no_time">—</string>
+    <string name="common_add">Add</string>
+    <string name="common_edit">Edit</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_pick_time">Pick time</string>
+    <string name="common_time_label">Time</string>
+    <string name="common_time_none">No time</string>
+    <string name="common_show">Show</string>
+    <string name="common_hide">Hide</string>
+
+    <!-- ===== Today sections ===== -->
+    <string name="today_section_events">Events</string>
+    <string name="today_section_weekly_schedule">Weekly schedule</string>
+    <string name="today_section_goals_today">Goals today</string>
+    <string name="today_section_daily_reminders">Daily reminders</string>
+
+    <!-- ===== Dialogs ===== -->
+    <string name="dialog_new_event_title">New event</string>
+    <string name="dialog_new_daily_reminder_title">New reminder</string>
+
+    <string name="dialog_edit_event_title">Edit event</string>
+    <string name="dialog_edit_reminder_title">Edit reminder</string>
+
+    <string name="dialog_delete_event_title">Delete event</string>
+    <string name="dialog_delete_event_body">This event will be permanently removed.</string>
+
+    <string name="dialog_delete_reminder_title">Delete reminder</string>
+    <string name="dialog_delete_reminder_body">This reminder will be permanently removed.</string>
+
+    <!-- ===== Reminders ===== -->
+    <string name="reminders_empty_for_day">No reminders for this day.</string>
+    <string name="reminder_default_title">Take a pill</string>
+
+    <string name="reminder_repeat">Repeat</string>
+    <string name="reminder_every_day">Every day</string>
+
+    <string name="reminder_weekly_no_days">Weekly (no days selected)</string>
+    <string name="reminder_weekly_prefix">Weekly</string>
+    <string name="reminder_weekly_pick_days">Weekly (pick days)</string>
+
+    <string name="reminder_monthly_prefix">Monthly</string>
+    <string name="reminder_monthly_by_day">Monthly (by day)</string>
+
+    <string name="reminder_yearly_prefix">Yearly</string>
+    <string name="reminder_yearly">Yearly</string>
+
+    <string name="reminder_day_of_month">Day of month</string>
+    <string name="reminder_day_1_31">1–31</string>
+    <string name="reminder_month_label">Month</string>
+
+
+
+    <!-- Weekly -->
+    <string name="weekly_title">Weekly</string>
+    <string name="weekly_add_slot">Add slot</string>
+    <string name="weekly_start_time">Start time</string>
+    <string name="weekly_slot_title_hint">Title</string>
+    <string name="weekly_clear_day">Clear day</string>
+    <string name="weekly_empty">No items for this day.</string>
+
+    <!-- Goals -->
+    <string name="goals_title">Goals</string>
+    <string name="goals_add">Add goal</string>
+    <string name="goals_edit">Edit goal</string>
+    <string name="goals_delete">Delete</string>
+    <string name="goals_empty">No goals yet. Tap + to add one.</string>
+    <string name="goals_new_goal">New goal</string>
+    <string name="goals_title_hint">Title</string>
+    <string name="goals_start_month">Start month</string>
+    <string name="goals_duration_months">Duration (months)</string>
+    <string name="goals_every_day">Every day of week</string>
+    <string name="goals_set_time_optional">Set time of day (optional)</string>
+    <string name="goals_any_time">Any time</string>
+    <string name="goals_save">Save</string>
+    <string name="goals_cancel">Cancel</string>
+
+    <!-- Calendar -->
+    <string name="calendar_title">Calendar</string>
+    <string name="calendar_events">Events</string>
+    <string name="calendar_month">Month</string>
+    <string name="calendar_add">Add</string>
+    <string name="calendar_empty">No events.</string>
+
+    <!-- Months: Gregorian (EN) -->
+    <string name="month_gregorian_01">January</string>
+    <string name="month_gregorian_02">February</string>
+    <string name="month_gregorian_03">March</string>
+    <string name="month_gregorian_04">April</string>
+    <string name="month_gregorian_05">May</string>
+    <string name="month_gregorian_06">June</string>
+    <string name="month_gregorian_07">July</string>
+    <string name="month_gregorian_08">August</string>
+    <string name="month_gregorian_09">September</string>
+    <string name="month_gregorian_10">October</string>
+    <string name="month_gregorian_11">November</string>
+    <string name="month_gregorian_12">December</string>
+
+    <!-- Months: Solar Hijri (Persian / Jalali) -->
+    <string name="month_solar_01">Farvardin</string>
+    <string name="month_solar_02">Ordibehesht</string>
+    <string name="month_solar_03">Khordad</string>
+    <string name="month_solar_04">Tir</string>
+    <string name="month_solar_05">Mordad</string>
+    <string name="month_solar_06">Shahrivar</string>
+    <string name="month_solar_07">Mehr</string>
+    <string name="month_solar_08">Aban</string>
+    <string name="month_solar_09">Azar</string>
+    <string name="month_solar_10">Dey</string>
+    <string name="month_solar_11">Bahman</string>
+    <string name="month_solar_12">Esfand</string>
+
+    <!-- Months: Hijri (Islamic / Lunar) -->
+    <string name="month_hijri_01">Muharram</string>
+    <string name="month_hijri_02">Safar</string>
+    <string name="month_hijri_03">Rabiʿ al-Awwal</string>
+    <string name="month_hijri_04">Rabiʿ ath-Thani</string>
+    <string name="month_hijri_05">Jumada al-Ula</string>
+    <string name="month_hijri_06">Jumada ath-Thania</string>
+    <string name="month_hijri_07">Rajab</string>
+    <string name="month_hijri_08">Shaban</string>
+    <string name="month_hijri_09">Ramadan</string>
+    <string name="month_hijri_10">Shawwal</string>
+    <string name="month_hijri_11">Dhu al-Qidah</string>
+    <string name="month_hijri_12">Dhu al-Hijjah</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+
+    <string name="settings_event_prefs_title">Event preferences</string>
+    <string name="settings_default_reminder_minutes">Default reminder minutes</string>
+    <string name="settings_vibration_on_reminder">Vibration on reminder</string>
+    <string name="settings_sound_on_reminder">Sound on reminder</string>
+    <string name="settings_used_by_reminders_when_they_trigger">Used by reminders when they trigger</string>
+
+    <string name="settings_language_time_title">Language &amp; Time</string>
+    <string name="settings_language_label">Language</string>
+    <string name="settings_time_zone_label">Time zone</string>
+    <string name="settings_app_language_label">App language</string>
+    <string name="settings_system_default">System default</string>
+    <string name="settings_use_system_default">Use system default</string>
+    <string name="settings_selected">Selected:</string>
+
+    <string name="settings_reset_factory_title">Reset factory</string>
+    <string name="settings_reset_factory_desc">Deletes ALL local data (events, weekly, goals, reminders, settings).</string>
+    <string name="settings_reset">Reset</string>
+    <string name="settings_reset_confirm_title">Reset factory?</string>
+    <string name="settings_reset_confirm_desc">This cannot be undone. All your data will be deleted.</string>
+
+    <string name="common_back">Back</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">On</string>
+    <string name="common_off">Off</string>
+
+    <string name="settings_event_prefs_summary">Default reminder: %1$dm\nVibration: %2$s • Sound: %3$s</string>
+    <string name="settings_language_time_summary">Language: %1$s\nTime zone: %2$s</string>
+
+    <string name="settings_language_saved_hint">Saved in planner settings. This screen updates instantly.</string>
+    <string name="profile_title">Profile</string>
+    <string name="calls_title">Calls</string>
+    <string name="drawer_welcome">Welcome!</string>
+    <string name="common_menu">Menu</string>
+    <string name="calls_body">Your recent and scheduled calls will appear here.</string>
+    <!-- Weekly setup -->
+    <string name="weekly_start_weekday_label">Start weekday</string>
+    <string name="weekly_day_starts_label">Day starts</string>
+    <string name="weekly_select_start_time_title">Select start time</string>
+    <string name="weekly_block_size_label">Block size</string>
+    <string name="weekly_block_1h">1 hour</string>
+    <string name="weekly_block_2h">2 hours</string>
+
+    <string name="weekly_setup_title">Weekly setup</string>
+    <string name="weekly_create_schedule">Create weekly schedule</string>
+    <string name="weekly_swipe_hint">Swipe to plan each day</string>
+    <string name="weekly_ends_at_midnight">Ends at 00:00</string>
+
+    <string name="weekly_add_event">Add event</string>
+    <string name="weekly_remove_event">Remove event</string>
+    <string name="weekly_no_events">No events</string>
+
+
+    <string name="common_title">Title</string>
+
+
+    <string name="dialog_remove_event_title">Remove event</string>
+    <string name="dialog_remove_event_body">Are you sure you want to remove this event?</string>
+
+
+    <string name="goals_goal_chip">Goal</string>
+    <string name="calendar_tab_events">Events</string>
+    <string name="calendar_tab_calendar">Calendar</string>
+    <string name="calendar_events_title">Todays events</string>
+    <string name="calendar_no_events_for_day">No events for this day</string>
+    <string name="calendar_hijri_label">Hijri</string>
+    <string name="calendar_gregorian_label">Gregorian</string>
+    <string name="calendar_jalali_label">Jalali</string>
+
+    <string name="jalali_month_1">Farvardin</string>
+    <string name="jalali_month_2">Ordibehesht</string>
+    <string name="jalali_month_3">Khordad</string>
+    <string name="jalali_month_4">Tir</string>
+    <string name="jalali_month_5">Mordad</string>
+    <string name="jalali_month_6">Shahrivar</string>
+    <string name="jalali_month_7">Mehr</string>
+    <string name="jalali_month_8">Aban</string>
+    <string name="jalali_month_9">Azar</string>
+    <string name="jalali_month_10">Dey</string>
+    <string name="jalali_month_11">Bahman</string>
+    <string name="jalali_month_12">Esfand</string>
+    <string name="goals_summary_format">%1$d %2$s • %3$s • %4$s • %5$s</string>
+    <string name="goals_duration_short">mo</string>
+    <string name="goals_preview">Preview:</string>
+    <string name="goals_my_goal">My goal</string>
+    <string name="goals_today_empty">No goals for today.</string>
+
+
+    <!-- setting -->
+
+    <string name="settings_calendar_prefs_title">Calendar preferences</string>
+    <string name="settings_calendar_prefs_summary">Default calendar: %1$s\nWeekend: %2$s</string>
+
+
+    <string name="settings_default_calendar_label">Default calendar</string>
+    <string name="settings_weekend_mode_label">Weekend days</string>
+
+    <string name="calendar_type_jalali">Jalali (Persian)</string>
+    <string name="calendar_type_gregorian">Gregorian</string>
+    <string name="calendar_type_hijri">Hijri (Islamic)</string>
+
+    <string name="weekend_mode_thu_fri">Thursday &amp; Friday</string>
+    <string name="weekend_mode_sat_sun">Saturday &amp; Sunday</string>
+
+
+
+</resources>

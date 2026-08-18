@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nav_today">今天</string>
+    <string name="nav_weekly">每周计划</string>
+    <string name="nav_calendar">日历</string>
+    <string name="nav_goals">目标</string>
+    <string name="nav_settings">设置</string>
+
+    <string name="today_title">今天</string>
+    <string name="today_add_event">添加事件</string>
+    <string name="today_event_title_hint">标题</string>
+    <string name="today_event_time_optional">时间（可选）</string>
+    <string name="today_all_day">全天</string>
+    <string name="today_done">已完成</string>
+    <string name="today_undone">未完成</string>
+    <string name="today_delete">删除</string>
+    <string name="today_rename">重命名</string>
+    <string name="today_empty">今天没有事件。</string>
+
+    <string name="common_prev">上一天</string>
+    <string name="common_next">下一天</string>
+    <string name="common_today">今天</string>
+    <string name="common_tomorrow">明天</string>
+    <string name="common_yesterday">昨天</string>
+    <string name="common_no_time">—</string>
+    <string name="common_add">添加</string>
+    <string name="common_edit">编辑</string>
+    <string name="common_delete">删除</string>
+    <string name="common_pick_time">选择时间</string>
+    <string name="common_time_label">时间</string>
+    <string name="common_time_none">无时间</string>
+    <string name="common_show">显示</string>
+    <string name="common_hide">隐藏</string>
+
+    <string name="today_section_events">事件</string>
+    <string name="today_section_weekly_schedule">每周计划</string>
+    <string name="today_section_goals_today">今日目标</string>
+    <string name="today_section_daily_reminders">每日提醒</string>
+
+    <string name="dialog_new_event_title">新事件</string>
+    <string name="dialog_new_daily_reminder_title">新提醒</string>
+
+    <string name="dialog_edit_event_title">编辑事件</string>
+    <string name="dialog_edit_reminder_title">编辑提醒</string>
+
+    <string name="dialog_delete_event_title">删除事件</string>
+    <string name="dialog_delete_event_body">该事件将被永久删除。</string>
+
+    <string name="dialog_delete_reminder_title">删除提醒</string>
+    <string name="dialog_delete_reminder_body">该提醒将被永久删除。</string>
+
+    <string name="reminders_empty_for_day">当天没有提醒。</string>
+    <string name="reminder_default_title">吃药</string>
+
+    <string name="reminder_repeat">重复</string>
+    <string name="reminder_every_day">每天</string>
+
+    <string name="reminder_weekly_no_days">每周（未选择日期）</string>
+    <string name="reminder_weekly_prefix">每周</string>
+    <string name="reminder_weekly_pick_days">每周（选择日期）</string>
+
+    <string name="reminder_monthly_prefix">每月</string>
+    <string name="reminder_monthly_by_day">每月（按日期）</string>
+
+    <string name="reminder_yearly_prefix">每年</string>
+    <string name="reminder_yearly">每年</string>
+
+    <string name="reminder_day_of_month">每月日期</string>
+    <string name="reminder_day_1_31">1–31</string>
+    <string name="reminder_month_label">月份</string>
+
+    <string name="weekly_title">每周</string>
+    <string name="weekly_add_slot">添加时段</string>
+    <string name="weekly_start_time">开始时间</string>
+    <string name="weekly_slot_title_hint">标题</string>
+    <string name="weekly_clear_day">清空当天</string>
+    <string name="weekly_empty">当天没有内容。</string>
+
+    <string name="goals_title">目标</string>
+    <string name="goals_add">添加目标</string>
+    <string name="goals_edit">编辑目标</string>
+    <string name="goals_delete">删除</string>
+    <string name="goals_empty">还没有目标。点击 + 添加。</string>
+    <string name="goals_new_goal">新目标</string>
+    <string name="goals_title_hint">标题</string>
+    <string name="goals_start_month">开始月份</string>
+    <string name="goals_duration_months">持续时间（月）</string>
+    <string name="goals_every_day">每周每天</string>
+    <string name="goals_set_time_optional">设置时间（可选）</string>
+    <string name="goals_any_time">任意时间</string>
+    <string name="goals_save">保存</string>
+    <string name="goals_cancel">取消</string>
+
+    <string name="calendar_title">日历</string>
+    <string name="calendar_events">事件</string>
+    <string name="calendar_month">月份</string>
+    <string name="calendar_add">添加</string>
+    <string name="calendar_empty">没有事件。</string>
+
+    <string name="month_gregorian_01">一月</string>
+    <string name="month_gregorian_02">二月</string>
+    <string name="month_gregorian_03">三月</string>
+    <string name="month_gregorian_04">四月</string>
+    <string name="month_gregorian_05">五月</string>
+    <string name="month_gregorian_06">六月</string>
+    <string name="month_gregorian_07">七月</string>
+    <string name="month_gregorian_08">八月</string>
+    <string name="month_gregorian_09">九月</string>
+    <string name="month_gregorian_10">十月</string>
+    <string name="month_gregorian_11">十一月</string>
+    <string name="month_gregorian_12">十二月</string>
+
+    <string name="month_solar_01">Farvardin</string>
+    <string name="month_solar_02">Ordibehesht</string>
+    <string name="month_solar_03">Khordad</string>
+    <string name="month_solar_04">Tir</string>
+    <string name="month_solar_05">Mordad</string>
+    <string name="month_solar_06">Shahrivar</string>
+    <string name="month_solar_07">Mehr</string>
+    <string name="month_solar_08">Aban</string>
+    <string name="month_solar_09">Azar</string>
+    <string name="month_solar_10">Dey</string>
+    <string name="month_solar_11">Bahman</string>
+    <string name="month_solar_12">Esfand</string>
+
+    <string name="month_hijri_01">Muharram</string>
+    <string name="month_hijri_02">Safar</string>
+    <string name="month_hijri_03">Rabiʿ al-Awwal</string>
+    <string name="month_hijri_04">Rabiʿ ath-Thani</string>
+    <string name="month_hijri_05">Jumada al-Ula</string>
+    <string name="month_hijri_06">Jumada ath-Thania</string>
+    <string name="month_hijri_07">Rajab</string>
+    <string name="month_hijri_08">Shaban</string>
+    <string name="month_hijri_09">Ramadan</string>
+    <string name="month_hijri_10">Shawwal</string>
+    <string name="month_hijri_11">Dhu al-Qidah</string>
+    <string name="month_hijri_12">Dhu al-Hijjah</string>
+
+    <string name="settings_title">设置</string>
+
+    <string name="settings_event_prefs_title">事件偏好</string>
+    <string name="settings_default_reminder_minutes">默认提醒分钟数</string>
+    <string name="settings_vibration_on_reminder">提醒时震动</string>
+    <string name="settings_sound_on_reminder">提醒时声音</string>
+    <string name="settings_used_by_reminders_when_they_trigger">提醒触发时使用</string>
+
+    <string name="settings_language_time_title">语言与时间</string>
+    <string name="settings_language_label">语言</string>
+    <string name="settings_time_zone_label">时区</string>
+    <string name="settings_app_language_label">应用语言</string>
+    <string name="settings_system_default">系统默认</string>
+    <string name="settings_use_system_default">使用系统默认</string>
+    <string name="settings_selected">已选择：</string>
+
+    <string name="settings_reset_factory_title">恢复出厂设置</string>
+    <string name="settings_reset_factory_desc">删除所有本地数据（事件、每周、目标、提醒、设置）。</string>
+    <string name="settings_reset">重置</string>
+    <string name="settings_reset_confirm_title">恢复出厂设置？</string>
+    <string name="settings_reset_confirm_desc">无法撤销。你的所有数据将被删除。</string>
+
+    <string name="common_back">返回</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_ok">确定</string>
+    <string name="common_on">开</string>
+    <string name="common_off">关</string>
+
+    <string name="settings_event_prefs_summary">默认提醒：%1$dm\n震动：%2$s • 声音：%3$s</string>
+    <string name="settings_language_time_summary">语言：%1$s\n时区：%2$s</string>
+
+    <string name="settings_language_saved_hint">已保存到 planner 设置。此页面会立即更新。</string>
+    <string name="profile_title">个人资料</string>
+    <string name="calls_title">通话</string>
+    <string name="drawer_welcome">欢迎！</string>
+    <string name="common_menu">菜单</string>
+    <string name="calls_body">您最近和已安排的通话将显示在这里。</string>
+    <string name="weekly_setup_title">每周设置</string>
+    <string name="weekly_start_weekday_label">一周开始日</string>
+    <string name="weekly_day_starts_label">一天开始于：</string>
+    <string name="weekly_select_start_time_title">选择开始时间（24小时）</string>
+    <string name="weekly_block_size_label">时间块大小：</string>
+    <string name="weekly_block_1h">1 小时</string>
+    <string name="weekly_block_2h">2 小时</string>
+    <string name="weekly_create_schedule">创建每周计划</string>
+    <string name="weekly_swipe_hint">滑动以规划每天。</string>
+    <string name="weekly_ends_at_midnight">结束于 00:00</string>
+
+    <string name="weekly_add_event">添加事件</string>
+    <string name="weekly_remove_event">删除事件</string>
+    <string name="weekly_no_events">没有事件</string>
+
+    <string name="common_title">标题</string>
+
+    <string name="dialog_remove_event_title">删除事件</string>
+    <string name="dialog_remove_event_body">确定要删除此事件吗？</string>
+
+    <string name="goals_goal_chip">目标</string>
+    <string name="calendar_tab_events">事件</string>
+    <string name="calendar_tab_calendar">日历</string>
+    <string name="calendar_events_title">今天的事件</string>
+    <string name="calendar_no_events_for_day">这一天没有事件</string>
+    <string name="calendar_hijri_label">回历</string>
+    <string name="calendar_gregorian_label">公历</string>
+    <string name="calendar_jalali_label">贾拉利历</string>
+
+    <string name="jalali_month_1">法尔瓦丁月</string>
+    <string name="jalali_month_2">奥尔迪贝赫什特月</string>
+    <string name="jalali_month_3">霍尔达德月</string>
+    <string name="jalali_month_4">提尔月</string>
+    <string name="jalali_month_5">莫尔达德月</string>
+    <string name="jalali_month_6">沙赫里瓦尔月</string>
+    <string name="jalali_month_7">梅赫尔月</string>
+    <string name="jalali_month_8">阿班月</string>
+    <string name="jalali_month_9">阿扎尔月</string>
+    <string name="jalali_month_10">代伊月</string>
+    <string name="jalali_month_11">巴赫曼月</string>
+    <string name="jalali_month_12">埃斯凡德月</string>
+
+    <string name="goals_summary_format">%1$d %2$s • %3$s • %4$s • %5$s</string>
+    <string name="goals_duration_short">月</string>
+    <string name="goals_preview">预览：</string>
+    <string name="goals_my_goal">我的目标</string>
+    <string name="goals_today_empty">今天没有目标。</string>
+
+    <string name="settings_calendar_prefs_title">日历偏好设置</string>
+    <string name="settings_calendar_prefs_summary">默认日历与周末设置</string>
+
+    <string name="settings_default_calendar_label">默认日历</string>
+    <string name="settings_weekend_mode_label">周末</string>
+
+    <string name="calendar_type_jalali">贾拉里（日历，波斯）</string>
+    <string name="calendar_type_gregorian">公历</string>
+    <string name="calendar_type_hijri">伊斯兰历（阴历）</string>
+
+    <string name="weekend_mode_thu_fri">周四和周五</string>
+    <string name="weekend_mode_sat_sun">周六和周日</string>
+
+</resources>

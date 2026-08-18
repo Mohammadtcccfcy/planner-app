@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Drawer / Routes -->
+    <string name="nav_today">اليوم</string>
+    <string name="nav_weekly">الجدول الأسبوعي</string>
+    <string name="nav_calendar">التقويم</string>
+    <string name="nav_goals">الأهداف</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Today -->
+    <string name="today_title">اليوم</string>
+    <string name="today_add_event">إضافة حدث</string>
+    <string name="today_event_title_hint">العنوان</string>
+    <string name="today_event_time_optional">الوقت (اختياري)</string>
+    <string name="today_all_day">طوال اليوم</string>
+    <string name="today_done">تم</string>
+    <string name="today_undone">غير منجز</string>
+    <string name="today_delete">حذف</string>
+    <string name="today_rename">إعادة تسمية</string>
+    <string name="today_empty">لا توجد أحداث لليوم.</string>
+
+    <!-- ===== Common ===== -->
+    <string name="common_prev">السابق</string>
+    <string name="common_next">التالي</string>
+    <string name="common_today">اليوم</string>
+    <string name="common_tomorrow">غدًا</string>
+    <string name="common_yesterday">أمس</string>
+    <string name="common_no_time">—</string>
+    <string name="common_add">إضافة</string>
+    <string name="common_edit">تعديل</string>
+    <string name="common_delete">حذف</string>
+    <string name="common_pick_time">اختر الوقت</string>
+    <string name="common_time_label">الوقت</string>
+    <string name="common_time_none">بدون وقت</string>
+    <string name="common_show">إظهار</string>
+    <string name="common_hide">إخفاء</string>
+
+    <!-- ===== Today sections ===== -->
+    <string name="today_section_events">الأحداث</string>
+    <string name="today_section_weekly_schedule">الجدول الأسبوعي</string>
+    <string name="today_section_goals_today">أهداف اليوم</string>
+    <string name="today_section_daily_reminders">تذكيرات يومية</string>
+
+    <!-- ===== Dialogs ===== -->
+    <string name="dialog_new_event_title">حدث جديد</string>
+    <string name="dialog_new_daily_reminder_title">تذكير جديد</string>
+
+    <string name="dialog_edit_event_title">تعديل الحدث</string>
+    <string name="dialog_edit_reminder_title">تعديل التذكير</string>
+
+    <string name="dialog_delete_event_title">حذف الحدث</string>
+    <string name="dialog_delete_event_body">سيتم حذف هذا الحدث نهائيًا.</string>
+
+    <string name="dialog_delete_reminder_title">حذف التذكير</string>
+    <string name="dialog_delete_reminder_body">سيتم حذف هذا التذكير نهائيًا.</string>
+
+    <!-- ===== Reminders ===== -->
+    <string name="reminders_empty_for_day">لا توجد تذكيرات لهذا اليوم.</string>
+    <string name="reminder_default_title">خذ حبة</string>
+
+    <string name="reminder_repeat">تكرار</string>
+    <string name="reminder_every_day">كل يوم</string>
+
+    <string name="reminder_weekly_no_days">أسبوعي (لم يتم تحديد أيام)</string>
+    <string name="reminder_weekly_prefix">أسبوعي</string>
+    <string name="reminder_weekly_pick_days">أسبوعي (اختر الأيام)</string>
+
+    <string name="reminder_monthly_prefix">شهري</string>
+    <string name="reminder_monthly_by_day">شهري (حسب اليوم)</string>
+
+    <string name="reminder_yearly_prefix">سنوي</string>
+    <string name="reminder_yearly">سنوي</string>
+
+    <string name="reminder_day_of_month">يوم من الشهر</string>
+    <string name="reminder_day_1_31">1–31</string>
+    <string name="reminder_month_label">الشهر</string>
+
+    <!-- Weekly -->
+    <string name="weekly_title">أسبوعي</string>
+    <string name="weekly_add_slot">إضافة فترة</string>
+    <string name="weekly_start_time">وقت البدء</string>
+    <string name="weekly_slot_title_hint">العنوان</string>
+    <string name="weekly_clear_day">مسح اليوم</string>
+    <string name="weekly_empty">لا توجد عناصر لهذا اليوم.</string>
+
+    <!-- Goals -->
+    <string name="goals_title">الأهداف</string>
+    <string name="goals_add">إضافة هدف</string>
+    <string name="goals_edit">تعديل الهدف</string>
+    <string name="goals_delete">حذف</string>
+    <string name="goals_empty">لا توجد أهداف بعد. اضغط + لإضافة واحد.</string>
+    <string name="goals_new_goal">هدف جديد</string>
+    <string name="goals_title_hint">العنوان</string>
+    <string name="goals_start_month">شهر البدء</string>
+    <string name="goals_duration_months">المدة (بالأشهر)</string>
+    <string name="goals_every_day">كل أيام الأسبوع</string>
+    <string name="goals_set_time_optional">تحديد الوقت (اختياري)</string>
+    <string name="goals_any_time">أي وقت</string>
+    <string name="goals_save">حفظ</string>
+    <string name="goals_cancel">إلغاء</string>
+
+    <!-- Calendar -->
+    <string name="calendar_title">التقويم</string>
+    <string name="calendar_events">الأحداث</string>
+    <string name="calendar_month">الشهر</string>
+    <string name="calendar_add">إضافة</string>
+    <string name="calendar_empty">لا توجد أحداث.</string>
+
+    <!-- Months: Gregorian -->
+    <string name="month_gregorian_01">يناير</string>
+    <string name="month_gregorian_02">فبراير</string>
+    <string name="month_gregorian_03">مارس</string>
+    <string name="month_gregorian_04">أبريل</string>
+    <string name="month_gregorian_05">مايو</string>
+    <string name="month_gregorian_06">يونيو</string>
+    <string name="month_gregorian_07">يوليو</string>
+    <string name="month_gregorian_08">أغسطس</string>
+    <string name="month_gregorian_09">سبتمبر</string>
+    <string name="month_gregorian_10">أكتوبر</string>
+    <string name="month_gregorian_11">نوفمبر</string>
+    <string name="month_gregorian_12">ديسمبر</string>
+
+    <!-- Months: Solar Hijri (transliterated) -->
+    <string name="month_solar_01">فروردين</string>
+    <string name="month_solar_02">أرديبهشت</string>
+    <string name="month_solar_03">خرداد</string>
+    <string name="month_solar_04">تير</string>
+    <string name="month_solar_05">مرداد</string>
+    <string name="month_solar_06">شهريور</string>
+    <string name="month_solar_07">مهر</string>
+    <string name="month_solar_08">آبان</string>
+    <string name="month_solar_09">آذر</string>
+    <string name="month_solar_10">دي</string>
+    <string name="month_solar_11">بهمن</string>
+    <string name="month_solar_12">اسفند</string>
+
+    <!-- Months: Hijri -->
+    <string name="month_hijri_01">محرم</string>
+    <string name="month_hijri_02">صفر</string>
+    <string name="month_hijri_03">ربيع الأول</string>
+    <string name="month_hijri_04">ربيع الآخر</string>
+    <string name="month_hijri_05">جمادى الأولى</string>
+    <string name="month_hijri_06">جمادى الآخرة</string>
+    <string name="month_hijri_07">رجب</string>
+    <string name="month_hijri_08">شعبان</string>
+    <string name="month_hijri_09">رمضان</string>
+    <string name="month_hijri_10">شوال</string>
+    <string name="month_hijri_11">ذو القعدة</string>
+    <string name="month_hijri_12">ذو الحجة</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+
+    <string name="settings_event_prefs_title">تفضيلات الأحداث</string>
+    <string name="settings_default_reminder_minutes">الدقائق الافتراضية للتذكير</string>
+    <string name="settings_vibration_on_reminder">الاهتزاز عند التذكير</string>
+    <string name="settings_sound_on_reminder">الصوت عند التذكير</string>
+    <string name="settings_used_by_reminders_when_they_trigger">يُستخدم عند تشغيل التذكيرات</string>
+
+    <string name="settings_language_time_title">اللغة والوقت</string>
+    <string name="settings_language_label">اللغة</string>
+    <string name="settings_time_zone_label">المنطقة الزمنية</string>
+    <string name="settings_app_language_label">لغة التطبيق</string>
+    <string name="settings_system_default">افتراضي النظام</string>
+    <string name="settings_use_system_default">استخدام افتراضي النظام</string>
+    <string name="settings_selected">المحدد:</string>
+
+    <string name="settings_reset_factory_title">إعادة ضبط المصنع</string>
+    <string name="settings_reset_factory_desc">سيتم حذف جميع البيانات المحلية (الأحداث، الأسبوعي، الأهداف، التذكيرات، الإعدادات).</string>
+    <string name="settings_reset">إعادة ضبط</string>
+    <string name="settings_reset_confirm_title">إعادة ضبط المصنع؟</string>
+    <string name="settings_reset_confirm_desc">لا يمكن التراجع عن ذلك. سيتم حذف جميع بياناتك.</string>
+
+    <string name="common_back">رجوع</string>
+    <string name="common_cancel">إلغاء</string>
+    <string name="common_ok">موافق</string>
+    <string name="common_on">تشغيل</string>
+    <string name="common_off">إيقاف</string>
+
+    <string name="settings_event_prefs_summary">التذكير الافتراضي: %1$dm\nالاهتزاز: %2$s • الصوت: %3$s</string>
+    <string name="settings_language_time_summary">اللغة: %1$s\nالمنطقة الزمنية: %2$s</string>
+
+    <string name="settings_language_saved_hint">تم الحفظ في إعدادات المخطط. يتم تحديث هذه الشاشة فورًا.</string>
+
+    <string name="drawer_welcome">مرحبًا!</string>
+    <string name="calls_title">المكالمات</string>
+    <string name="calls_body">ستظهر مكالماتك الأخيرة والمجدولة هنا.</string>
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="common_menu">القائمة</string>
+    <string name="weekly_setup_title">إعداد الجدول الأسبوعي</string>
+    <string name="weekly_start_weekday_label">يوم بداية الأسبوع</string>
+    <string name="weekly_day_starts_label">بداية اليوم:</string>
+    <string name="weekly_select_start_time_title">اختر وقت البداية (24 ساعة)</string>
+    <string name="weekly_block_size_label">حجم الفترة:</string>
+    <string name="weekly_block_1h">ساعة واحدة</string>
+    <string name="weekly_block_2h">ساعتان</string>
+    <string name="weekly_create_schedule">إنشاء جدول أسبوعي</string>
+    <string name="weekly_swipe_hint">اسحب للتخطيط لكل يوم.</string>
+    <string name="weekly_ends_at_midnight">ينتهي عند 00:00</string>
+
+    <string name="weekly_add_event">إضافة حدث</string>
+    <string name="weekly_remove_event">حذف الحدث</string>
+    <string name="weekly_no_events">لا توجد أحداث</string>
+
+    <string name="common_title">العنوان</string>
+
+    <string name="dialog_remove_event_title">حذف الحدث</string>
+    <string name="dialog_remove_event_body">هل أنت متأكد من حذف هذا الحدث؟</string>
+
+    <string name="goals_goal_chip">هدف</string>
+    <string name="calendar_tab_events">الأحداث</string>
+    <string name="calendar_tab_calendar">التقويم</string>
+    <string name="calendar_events_title">أحداث اليوم</string>
+    <string name="calendar_no_events_for_day">لا توجد أحداث لهذا اليوم</string>
+    <string name="calendar_hijri_label">هجري</string>
+    <string name="calendar_gregorian_label">ميلادي</string>
+    <string name="calendar_jalali_label">جلالي</string>
+
+    <string name="jalali_month_1">فروردين</string>
+    <string name="jalali_month_2">أرديبهشت</string>
+    <string name="jalali_month_3">خرداد</string>
+    <string name="jalali_month_4">تير</string>
+    <string name="jalali_month_5">مرداد</string>
+    <string name="jalali_month_6">شهريور</string>
+    <string name="jalali_month_7">مهر</string>
+    <string name="jalali_month_8">آبان</string>
+    <string name="jalali_month_9">آذر</string>
+    <string name="jalali_month_10">دي</string>
+    <string name="jalali_month_11">بهمن</string>
+    <string name="jalali_month_12">اسفند</string>
+
+    <string name="goals_summary_format">%1$d %2$s • %3$s • %4$s • %5$s</string>
+    <string name="goals_duration_short">شهر</string>
+    <string name="goals_preview">معاينة:</string>
+    <string name="goals_my_goal">هدفي</string>
+    <string name="goals_today_empty">لا توجد أهداف لليوم.</string>
+
+    <string name="settings_calendar_prefs_title">تفضيلات التقويم</string>
+    <string name="settings_calendar_prefs_summary">إعدادات التقويم الافتراضي وعطلة نهاية الأسبوع</string>
+
+    <string name="settings_default_calendar_label">التقويم الافتراضي</string>
+    <string name="settings_weekend_mode_label">أيام عطلة نهاية الأسبوع</string>
+
+    <string name="calendar_type_jalali">جلالي (شمسي)</string>
+    <string name="calendar_type_gregorian">ميلادي</string>
+    <string name="calendar_type_hijri">هجري قمري</string>
+
+    <string name="weekend_mode_thu_fri">الخميس والجمعة</string>
+    <string name="weekend_mode_sat_sun">السبت والأحد</string>
+
+
+
+</resources>

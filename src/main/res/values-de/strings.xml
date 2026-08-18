@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Drawer / Routes -->
+    <string name="nav_today">Heute</string>
+    <string name="nav_weekly">Wochenplan</string>
+    <string name="nav_calendar">Kalender</string>
+    <string name="nav_goals">Ziele</string>
+    <string name="nav_settings">Einstellungen</string>
+
+    <!-- Today -->
+    <string name="today_title">Heute</string>
+    <string name="today_add_event">Ereignis hinzufügen</string>
+    <string name="today_event_title_hint">Titel</string>
+    <string name="today_event_time_optional">Uhrzeit (optional)</string>
+    <string name="today_all_day">Ganztägig</string>
+    <string name="today_done">Erledigt</string>
+    <string name="today_undone">Nicht erledigt</string>
+    <string name="today_delete">Löschen</string>
+    <string name="today_rename">Umbenennen</string>
+    <string name="today_empty">Keine Ereignisse für heute.</string>
+
+    <!-- ===== Common ===== -->
+    <string name="common_prev">Zurück</string>
+    <string name="common_next">Weiter</string>
+    <string name="common_today">Heute</string>
+    <string name="common_tomorrow">Morgen</string>
+    <string name="common_yesterday">Gestern</string>
+    <string name="common_no_time">—</string>
+    <string name="common_add">Hinzufügen</string>
+    <string name="common_edit">Bearbeiten</string>
+    <string name="common_delete">Löschen</string>
+    <string name="common_pick_time">Uhrzeit wählen</string>
+    <string name="common_time_label">Uhrzeit</string>
+    <string name="common_time_none">Keine Uhrzeit</string>
+    <string name="common_show">Anzeigen</string>
+    <string name="common_hide">Ausblenden</string>
+
+    <!-- ===== Today sections ===== -->
+    <string name="today_section_events">Ereignisse</string>
+    <string name="today_section_weekly_schedule">Wochenplan</string>
+    <string name="today_section_goals_today">Heutige Ziele</string>
+    <string name="today_section_daily_reminders">Tägliche Erinnerungen</string>
+
+    <!-- ===== Dialogs ===== -->
+    <string name="dialog_new_event_title">Neues Ereignis</string>
+    <string name="dialog_new_daily_reminder_title">Neue Erinnerung</string>
+
+    <string name="dialog_edit_event_title">Ereignis bearbeiten</string>
+    <string name="dialog_edit_reminder_title">Erinnerung bearbeiten</string>
+
+    <string name="dialog_delete_event_title">Ereignis löschen</string>
+    <string name="dialog_delete_event_body">Dieses Ereignis wird dauerhaft entfernt.</string>
+
+    <string name="dialog_delete_reminder_title">Erinnerung löschen</string>
+    <string name="dialog_delete_reminder_body">Diese Erinnerung wird dauerhaft entfernt.</string>
+
+    <!-- ===== Reminders ===== -->
+    <string name="reminders_empty_for_day">Keine Erinnerungen für diesen Tag.</string>
+    <string name="reminder_default_title">Tablette nehmen</string>
+
+    <string name="reminder_repeat">Wiederholen</string>
+    <string name="reminder_every_day">Jeden Tag</string>
+
+    <string name="reminder_weekly_no_days">Wöchentlich (keine Tage ausgewählt)</string>
+    <string name="reminder_weekly_prefix">Wöchentlich</string>
+    <string name="reminder_weekly_pick_days">Wöchentlich (Tage wählen)</string>
+
+    <string name="reminder_monthly_prefix">Monatlich</string>
+    <string name="reminder_monthly_by_day">Monatlich (nach Tag)</string>
+
+    <string name="reminder_yearly_prefix">Jährlich</string>
+    <string name="reminder_yearly">Jährlich</string>
+
+    <string name="reminder_day_of_month">Tag des Monats</string>
+    <string name="reminder_day_1_31">1–31</string>
+    <string name="reminder_month_label">Monat</string>
+
+    <!-- Weekly -->
+    <string name="weekly_title">Wöchentlich</string>
+    <string name="weekly_add_slot">Zeitraum hinzufügen</string>
+    <string name="weekly_start_time">Startzeit</string>
+    <string name="weekly_slot_title_hint">Titel</string>
+    <string name="weekly_clear_day">Tag löschen</string>
+    <string name="weekly_empty">Keine Einträge für diesen Tag.</string>
+
+    <!-- Goals -->
+    <string name="goals_title">Ziele</string>
+    <string name="goals_add">Ziel hinzufügen</string>
+    <string name="goals_edit">Ziel bearbeiten</string>
+    <string name="goals_delete">Löschen</string>
+    <string name="goals_empty">Noch keine Ziele. Tippe auf +, um eins hinzuzufügen.</string>
+    <string name="goals_new_goal">Neues Ziel</string>
+    <string name="goals_title_hint">Titel</string>
+    <string name="goals_start_month">Startmonat</string>
+    <string name="goals_duration_months">Dauer (Monate)</string>
+    <string name="goals_every_day">Jeden Wochentag</string>
+    <string name="goals_set_time_optional">Uhrzeit festlegen (optional)</string>
+    <string name="goals_any_time">Jederzeit</string>
+    <string name="goals_save">Speichern</string>
+    <string name="goals_cancel">Abbrechen</string>
+
+    <!-- Calendar -->
+    <string name="calendar_title">Kalender</string>
+    <string name="calendar_events">Ereignisse</string>
+    <string name="calendar_month">Monat</string>
+    <string name="calendar_add">Hinzufügen</string>
+    <string name="calendar_empty">Keine Ereignisse.</string>
+
+    <!-- Months: Gregorian -->
+    <string name="month_gregorian_01">Januar</string>
+    <string name="month_gregorian_02">Februar</string>
+    <string name="month_gregorian_03">März</string>
+    <string name="month_gregorian_04">April</string>
+    <string name="month_gregorian_05">Mai</string>
+    <string name="month_gregorian_06">Juni</string>
+    <string name="month_gregorian_07">Juli</string>
+    <string name="month_gregorian_08">August</string>
+    <string name="month_gregorian_09">September</string>
+    <string name="month_gregorian_10">Oktober</string>
+    <string name="month_gregorian_11">November</string>
+    <string name="month_gregorian_12">Dezember</string>
+
+    <!-- Months: Solar Hijri (transliteration kept) -->
+    <string name="month_solar_01">Farvardin</string>
+    <string name="month_solar_02">Ordibehesht</string>
+    <string name="month_solar_03">Khordad</string>
+    <string name="month_solar_04">Tir</string>
+    <string name="month_solar_05">Mordad</string>
+    <string name="month_solar_06">Shahrivar</string>
+    <string name="month_solar_07">Mehr</string>
+    <string name="month_solar_08">Aban</string>
+    <string name="month_solar_09">Azar</string>
+    <string name="month_solar_10">Dey</string>
+    <string name="month_solar_11">Bahman</string>
+    <string name="month_solar_12">Esfand</string>
+
+    <!-- Months: Hijri -->
+    <string name="month_hijri_01">Muharram</string>
+    <string name="month_hijri_02">Safar</string>
+    <string name="month_hijri_03">Rabiʿ al-Awwal</string>
+    <string name="month_hijri_04">Rabiʿ ath-Thani</string>
+    <string name="month_hijri_05">Jumada al-Ula</string>
+    <string name="month_hijri_06">Jumada ath-Thania</string>
+    <string name="month_hijri_07">Rajab</string>
+    <string name="month_hijri_08">Shaban</string>
+    <string name="month_hijri_09">Ramadan</string>
+    <string name="month_hijri_10">Shawwal</string>
+    <string name="month_hijri_11">Dhu al-Qidah</string>
+    <string name="month_hijri_12">Dhu al-Hijjah</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Einstellungen</string>
+
+    <string name="settings_event_prefs_title">Ereigniseinstellungen</string>
+    <string name="settings_default_reminder_minutes">Standard-Erinnerungsminuten</string>
+    <string name="settings_vibration_on_reminder">Vibration bei Erinnerung</string>
+    <string name="settings_sound_on_reminder">Ton bei Erinnerung</string>
+    <string name="settings_used_by_reminders_when_they_trigger">Wird verwendet, wenn Erinnerungen ausgelöst werden</string>
+
+    <string name="settings_language_time_title">Sprache &amp; Zeit</string>
+    <string name="settings_language_label">Sprache</string>
+    <string name="settings_time_zone_label">Zeitzone</string>
+    <string name="settings_app_language_label">App-Sprache</string>
+    <string name="settings_system_default">Systemstandard</string>
+    <string name="settings_use_system_default">Systemstandard verwenden</string>
+    <string name="settings_selected">Ausgewählt:</string>
+
+    <string name="settings_reset_factory_title">Werkseinstellungen zurücksetzen</string>
+    <string name="settings_reset_factory_desc">Löscht ALLE lokalen Daten (Ereignisse, Wochenplan, Ziele, Erinnerungen, Einstellungen).</string>
+    <string name="settings_reset">Zurücksetzen</string>
+    <string name="settings_reset_confirm_title">Werkseinstellungen zurücksetzen?</string>
+    <string name="settings_reset_confirm_desc">Dies kann nicht rückgängig gemacht werden. Alle Daten werden gelöscht.</string>
+
+    <string name="common_back">Zurück</string>
+    <string name="common_cancel">Abbrechen</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Ein</string>
+    <string name="common_off">Aus</string>
+
+    <string name="settings_event_prefs_summary">Standard-Erinnerung: %1$dm\nVibration: %2$s • Ton: %3$s</string>
+    <string name="settings_language_time_summary">Sprache: %1$s\nZeitzone: %2$s</string>
+
+    <string name="settings_language_saved_hint">In den Planer-Einstellungen gespeichert. Dieser Bildschirm aktualisiert sich sofort.</string>
+    <string name="drawer_welcome">Willkommen!</string>
+    <string name="calls_title">Anrufe</string>
+    <string name="calls_body">Deine letzten und geplanten Anrufe werden hier angezeigt.</string>
+    <string name="profile_title">Profil</string>
+    <string name="common_menu">Menü</string>
+    <string name="weekly_start_weekday_label">Startwochentag</string>
+    <string name="weekly_day_starts_label">Tagesbeginn</string>
+    <string name="weekly_select_start_time_title">Startzeit wählen</string>
+    <string name="weekly_block_size_label">Blockgröße</string>
+    <string name="weekly_block_1h">1 Stunde</string>
+    <string name="weekly_block_2h">2 Stunden</string>
+
+    <string name="weekly_setup_title">Wöchentliche Einrichtung</string>
+    <string name="weekly_create_schedule">Wochenplan erstellen</string>
+    <string name="weekly_swipe_hint">Wische, um jeden Tag zu planen</string>
+    <string name="weekly_ends_at_midnight">Endet um 00:00</string>
+
+    <!-- Weekly events -->
+    <string name="weekly_add_event">Termin hinzufügen</string>
+    <string name="weekly_remove_event">Termin entfernen</string>
+    <string name="weekly_no_events">Keine Termine</string>
+
+    <!-- Common -->
+    <string name="common_title">Titel</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_remove_event_title">Termin entfernen</string>
+    <string name="dialog_remove_event_body">Möchtest du diesen Termin wirklich entfernen?</string>
+
+    <!-- Goals -->
+    <string name="goals_goal_chip">Ziel</string>
+    <string name="calendar_tab_events">Ereignisse</string>
+    <string name="calendar_tab_calendar">Kalender</string>
+    <string name="calendar_events_title">Heutige Ereignisse</string>
+    <string name="calendar_no_events_for_day">Keine Ereignisse für diesen Tag</string>
+    <string name="calendar_hijri_label">Hidschri</string>
+    <string name="calendar_gregorian_label">Gregorianisch</string>
+    <string name="calendar_jalali_label">Dschalali</string>
+
+    <string name="jalali_month_1">Farvardin</string>
+    <string name="jalali_month_2">Ordibehescht</string>
+    <string name="jalali_month_3">Chordad</string>
+    <string name="jalali_month_4">Tir</string>
+    <string name="jalali_month_5">Mordad</string>
+    <string name="jalali_month_6">Schahrivar</string>
+    <string name="jalali_month_7">Mehr</string>
+    <string name="jalali_month_8">Aban</string>
+    <string name="jalali_month_9">Azar</string>
+    <string name="jalali_month_10">Dey</string>
+    <string name="jalali_month_11">Bahman</string>
+    <string name="jalali_month_12">Esfand</string>
+
+    <string name="goals_summary_format">%1$d %2$s • %3$s • %4$s • %5$s</string>
+    <string name="goals_duration_short">Mon</string>
+    <string name="goals_preview">Vorschau:</string>
+    <string name="goals_my_goal">Mein Ziel</string>
+    <string name="goals_today_empty">Heute gibt es keine Ziele.</string>
+
+    <string name="settings_calendar_prefs_title">Kalendereinstellungen</string>
+    <string name="settings_calendar_prefs_summary">Standardkalender und Wochenend-Einstellungen</string>
+
+    <string name="settings_default_calendar_label">Standardkalender</string>
+    <string name="settings_weekend_mode_label">Wochenendtage</string>
+
+    <string name="calendar_type_jalali">Jalali (persisch)</string>
+    <string name="calendar_type_gregorian">Gregorianisch</string>
+    <string name="calendar_type_hijri">Hidschri (islamisch)</string>
+
+    <string name="weekend_mode_thu_fri">Donnerstag &amp; Freitag</string>
+    <string name="weekend_mode_sat_sun">Samstag &amp; Sonntag</string>
+
+
+</resources>

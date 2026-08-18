@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nav_today">Σήμερα</string>
+    <string name="nav_weekly">Εβδομαδιαίο πρόγραμμα</string>
+    <string name="nav_calendar">Ημερολόγιο</string>
+    <string name="nav_goals">Στόχοι</string>
+    <string name="nav_settings">Ρυθμίσεις</string>
+
+    <string name="today_title">Σήμερα</string>
+    <string name="today_add_event">Προσθήκη συμβάντος</string>
+    <string name="today_event_title_hint">Τίτλος</string>
+    <string name="today_event_time_optional">Ώρα (προαιρετικό)</string>
+    <string name="today_all_day">Ολοήμερο</string>
+    <string name="today_done">Ολοκληρώθηκε</string>
+    <string name="today_undone">Μη ολοκληρωμένο</string>
+    <string name="today_delete">Διαγραφή</string>
+    <string name="today_rename">Μετονομασία</string>
+    <string name="today_empty">Δεν υπάρχουν συμβάντα για σήμερα.</string>
+
+    <string name="common_prev">Προηγούμενο</string>
+    <string name="common_next">Επόμενο</string>
+    <string name="common_today">Σήμερα</string>
+    <string name="common_tomorrow">Αύριο</string>
+    <string name="common_yesterday">Χθες</string>
+    <string name="common_no_time">—</string>
+    <string name="common_add">Προσθήκη</string>
+    <string name="common_edit">Επεξεργασία</string>
+    <string name="common_delete">Διαγραφή</string>
+    <string name="common_pick_time">Επιλογή ώρας</string>
+    <string name="common_time_label">Ώρα</string>
+    <string name="common_time_none">Χωρίς ώρα</string>
+    <string name="common_show">Εμφάνιση</string>
+    <string name="common_hide">Απόκρυψη</string>
+
+    <string name="today_section_events">Συμβάντα</string>
+    <string name="today_section_weekly_schedule">Εβδομαδιαίο πρόγραμμα</string>
+    <string name="today_section_goals_today">Στόχοι σήμερα</string>
+    <string name="today_section_daily_reminders">Ημερήσιες υπενθυμίσεις</string>
+
+    <string name="dialog_new_event_title">Νέο συμβάν</string>
+    <string name="dialog_new_daily_reminder_title">Νέα υπενθύμιση</string>
+
+    <string name="dialog_edit_event_title">Επεξεργασία συμβάντος</string>
+    <string name="dialog_edit_reminder_title">Επεξεργασία υπενθύμισης</string>
+
+    <string name="dialog_delete_event_title">Διαγραφή συμβάντος</string>
+    <string name="dialog_delete_event_body">Το συμβάν θα διαγραφεί οριστικά.</string>
+
+    <string name="dialog_delete_reminder_title">Διαγραφή υπενθύμισης</string>
+    <string name="dialog_delete_reminder_body">Η υπενθύμιση θα διαγραφεί οριστικά.</string>
+
+    <string name="reminders_empty_for_day">Δεν υπάρχουν υπενθυμίσεις για αυτή την ημέρα.</string>
+    <string name="reminder_default_title">Πάρε ένα χάπι</string>
+
+    <string name="reminder_repeat">Επανάληψη</string>
+    <string name="reminder_every_day">Κάθε μέρα</string>
+
+    <string name="reminder_weekly_no_days">Εβδομαδιαία (δεν επιλέχθηκαν ημέρες)</string>
+    <string name="reminder_weekly_prefix">Εβδομαδιαία</string>
+    <string name="reminder_weekly_pick_days">Εβδομαδιαία (επιλογή ημερών)</string>
+
+    <string name="reminder_monthly_prefix">Μηνιαία</string>
+    <string name="reminder_monthly_by_day">Μηνιαία (ανά ημέρα)</string>
+
+    <string name="reminder_yearly_prefix">Ετήσια</string>
+    <string name="reminder_yearly">Ετήσια</string>
+
+    <string name="reminder_day_of_month">Ημέρα του μήνα</string>
+    <string name="reminder_day_1_31">1–31</string>
+    <string name="reminder_month_label">Μήνας</string>
+
+    <string name="weekly_title">Εβδομαδιαία</string>
+    <string name="weekly_add_slot">Προσθήκη χρονικού διαστήματος</string>
+    <string name="weekly_start_time">Ώρα έναρξης</string>
+    <string name="weekly_slot_title_hint">Τίτλος</string>
+    <string name="weekly_clear_day">Καθαρισμός ημέρας</string>
+    <string name="weekly_empty">Δεν υπάρχουν στοιχεία για αυτή την ημέρα.</string>
+
+    <string name="goals_title">Στόχοι</string>
+    <string name="goals_add">Προσθήκη στόχου</string>
+    <string name="goals_edit">Επεξεργασία στόχου</string>
+    <string name="goals_delete">Διαγραφή</string>
+    <string name="goals_empty">Δεν υπάρχουν στόχοι ακόμα. Πάτησε + για προσθήκη.</string>
+    <string name="goals_new_goal">Νέος στόχος</string>
+    <string name="goals_title_hint">Τίτλος</string>
+    <string name="goals_start_month">Μήνας έναρξης</string>
+    <string name="goals_duration_months">Διάρκεια (μήνες)</string>
+    <string name="goals_every_day">Κάθε ημέρα της εβδομάδας</string>
+    <string name="goals_set_time_optional">Ορισμός ώρας (προαιρετικό)</string>
+    <string name="goals_any_time">Οποιαδήποτε ώρα</string>
+    <string name="goals_save">Αποθήκευση</string>
+    <string name="goals_cancel">Ακύρωση</string>
+
+    <string name="calendar_title">Ημερολόγιο</string>
+    <string name="calendar_events">Συμβάντα</string>
+    <string name="calendar_month">Μήνας</string>
+    <string name="calendar_add">Προσθήκη</string>
+    <string name="calendar_empty">Δεν υπάρχουν συμβάντα.</string>
+
+    <string name="month_gregorian_01">Ιανουάριος</string>
+    <string name="month_gregorian_02">Φεβρουάριος</string>
+    <string name="month_gregorian_03">Μάρτιος</string>
+    <string name="month_gregorian_04">Απρίλιος</string>
+    <string name="month_gregorian_05">Μάιος</string>
+    <string name="month_gregorian_06">Ιούνιος</string>
+    <string name="month_gregorian_07">Ιούλιος</string>
+    <string name="month_gregorian_08">Αύγουστος</string>
+    <string name="month_gregorian_09">Σεπτέμβριος</string>
+    <string name="month_gregorian_10">Οκτώβριος</string>
+    <string name="month_gregorian_11">Νοέμβριος</string>
+    <string name="month_gregorian_12">Δεκέμβριος</string>
+
+    <string name="month_solar_01">Farvardin</string>
+    <string name="month_solar_02">Ordibehesht</string>
+    <string name="month_solar_03">Khordad</string>
+    <string name="month_solar_04">Tir</string>
+    <string name="month_solar_05">Mordad</string>
+    <string name="month_solar_06">Shahrivar</string>
+    <string name="month_solar_07">Mehr</string>
+    <string name="month_solar_08">Aban</string>
+    <string name="month_solar_09">Azar</string>
+    <string name="month_solar_10">Dey</string>
+    <string name="month_solar_11">Bahman</string>
+    <string name="month_solar_12">Esfand</string>
+
+    <string name="month_hijri_01">Muharram</string>
+    <string name="month_hijri_02">Safar</string>
+    <string name="month_hijri_03">Rabiʿ al-Awwal</string>
+    <string name="month_hijri_04">Rabiʿ ath-Thani</string>
+    <string name="month_hijri_05">Jumada al-Ula</string>
+    <string name="month_hijri_06">Jumada ath-Thania</string>
+    <string name="month_hijri_07">Rajab</string>
+    <string name="month_hijri_08">Shaban</string>
+    <string name="month_hijri_09">Ramadan</string>
+    <string name="month_hijri_10">Shawwal</string>
+    <string name="month_hijri_11">Dhu al-Qidah</string>
+    <string name="month_hijri_12">Dhu al-Hijjah</string>
+
+    <string name="settings_title">Ρυθμίσεις</string>
+
+    <string name="settings_event_prefs_title">Προτιμήσεις συμβάντων</string>
+    <string name="settings_default_reminder_minutes">Προεπιλεγμένα λεπτά υπενθύμισης</string>
+    <string name="settings_vibration_on_reminder">Δόνηση στην υπενθύμιση</string>
+    <string name="settings_sound_on_reminder">Ήχος στην υπενθύμιση</string>
+    <string name="settings_used_by_reminders_when_they_trigger">Χρησιμοποιείται όταν ενεργοποιούνται οι υπενθυμίσεις</string>
+
+    <string name="settings_language_time_title">Γλώσσα &amp; Ώρα</string>
+    <string name="settings_language_label">Γλώσσα</string>
+    <string name="settings_time_zone_label">Ζώνη ώρας</string>
+    <string name="settings_app_language_label">Γλώσσα εφαρμογής</string>
+    <string name="settings_system_default">Προεπιλογή συστήματος</string>
+    <string name="settings_use_system_default">Χρήση προεπιλογής συστήματος</string>
+    <string name="settings_selected">Επιλεγμένο:</string>
+
+    <string name="settings_reset_factory_title">Επαναφορά εργοστασιακών</string>
+    <string name="settings_reset_factory_desc">Διαγράφει ΟΛΑ τα τοπικά δεδομένα (συμβάντα, εβδομαδιαίο, στόχους, υπενθυμίσεις, ρυθμίσεις).</string>
+    <string name="settings_reset">Επαναφορά</string>
+    <string name="settings_reset_confirm_title">Επαναφορά εργοστασιακών;</string>
+    <string name="settings_reset_confirm_desc">Δεν μπορεί να αναιρεθεί. Όλα τα δεδομένα θα διαγραφούν.</string>
+
+    <string name="common_back">Πίσω</string>
+    <string name="common_cancel">Ακύρωση</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Ενεργό</string>
+    <string name="common_off">Ανενεργό</string>
+
+    <string name="settings_event_prefs_summary">Προεπιλεγμένη υπενθύμιση: %1$dm\nΔόνηση: %2$s • Ήχος: %3$s</string>
+    <string name="settings_language_time_summary">Γλώσσα: %1$s\nΖώνη ώρας: %2$s</string>
+
+    <string name="settings_language_saved_hint">Αποθηκεύτηκε στις ρυθμίσεις του planner. Αυτή η οθόνη ενημερώνεται άμεσα.</string>
+    <string name="profile_title">Προφίλ</string>
+    <string name="calls_title">Κλήσεις</string>
+    <string name="drawer_welcome">Καλώς ήρθατε!</string>
+    <string name="common_menu">Μενού</string>
+    <string name="calls_body">Οι πρόσφατες και προγραμματισμένες κλήσεις σας θα εμφανίζονται εδώ.</string>
+    <string name="weekly_setup_title">Εβδομαδιαία ρύθμιση</string>
+    <string name="weekly_start_weekday_label">Ημέρα έναρξης εβδομάδας</string>
+    <string name="weekly_day_starts_label">Ημέρα ξεκινά:</string>
+    <string name="weekly_select_start_time_title">Επιλογή ώρας έναρξης (24ωρο)</string>
+    <string name="weekly_block_size_label">Μέγεθος μπλοκ:</string>
+    <string name="weekly_block_1h">1 ώρα</string>
+    <string name="weekly_block_2h">2 ώρες</string>
+    <string name="weekly_create_schedule">Δημιουργία εβδομαδιαίου προγράμματος</string>
+    <string name="weekly_swipe_hint">Σύρε για να προγραμματίσεις κάθε μέρα.</string>
+    <string name="weekly_ends_at_midnight">Τελειώνει στις 00:00</string>
+
+    <string name="weekly_add_event">Προσθήκη γεγονότος</string>
+    <string name="weekly_remove_event">Αφαίρεση γεγονότος</string>
+    <string name="weekly_no_events">Χωρίς γεγονότα</string>
+
+    <string name="common_title">Τίτλος</string>
+
+    <string name="dialog_remove_event_title">Αφαίρεση γεγονότος</string>
+    <string name="dialog_remove_event_body">Θέλετε σίγουρα να αφαιρέσετε αυτό το γεγονός;</string>
+
+    <string name="goals_goal_chip">Στόχος</string>
+    <string name="calendar_tab_events">Εκδηλώσεις</string>
+    <string name="calendar_tab_calendar">Ημερολόγιο</string>
+    <string name="calendar_events_title">Σημερινές εκδηλώσεις</string>
+    <string name="calendar_no_events_for_day">Δεν υπάρχουν εκδηλώσεις για αυτήν την ημέρα</string>
+    <string name="calendar_hijri_label">Χίτζρι</string>
+    <string name="calendar_gregorian_label">Γρηγοριανό</string>
+    <string name="calendar_jalali_label">Τζαλαλί</string>
+
+    <string name="jalali_month_1">Farvardin</string>
+    <string name="jalali_month_2">Ordibehesht</string>
+    <string name="jalali_month_3">Khordad</string>
+    <string name="jalali_month_4">Tir</string>
+    <string name="jalali_month_5">Mordad</string>
+    <string name="jalali_month_6">Shahrivar</string>
+    <string name="jalali_month_7">Mehr</string>
+    <string name="jalali_month_8">Aban</string>
+    <string name="jalali_month_9">Azar</string>
+    <string name="jalali_month_10">Dey</string>
+    <string name="jalali_month_11">Bahman</string>
+    <string name="jalali_month_12">Esfand</string>
+
+    <string name="goals_summary_format">%1$d %2$s • %3$s • %4$s • %5$s</string>
+    <string name="goals_duration_short">μήν</string>
+    <string name="goals_preview">Προεπισκόπηση:</string>
+    <string name="goals_my_goal">Ο στόχος μου</string>
+    <string name="goals_today_empty">Δεν υπάρχουν στόχοι για σήμερα.</string>
+
+    <string name="settings_calendar_prefs_title">Προτιμήσεις ημερολογίου</string>
+    <string name="settings_calendar_prefs_summary">Προεπιλεγμένο ημερολόγιο και σαββατοκύριακο</string>
+
+    <string name="settings_default_calendar_label">Προεπιλεγμένο ημερολόγιο</string>
+    <string name="settings_weekend_mode_label">Ημέρες Σαββατοκύριακου</string>
+
+    <string name="calendar_type_jalali">Τζαλάλι (Περσικό)</string>
+    <string name="calendar_type_gregorian">Γρηγοριανό</string>
+    <string name="calendar_type_hijri">Χίτζρι (Ισλαμικό)</string>
+
+    <string name="weekend_mode_thu_fri">Πέμπτη &amp; Παρασκευή</string>
+    <string name="weekend_mode_sat_sun">Σάββατο &amp; Κυριακή</string>
+
+
+</resources>
